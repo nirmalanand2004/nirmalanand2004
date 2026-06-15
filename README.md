@@ -61,7 +61,7 @@ HTML | CSS | JavaScript | FastAPI | MongoDB
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add Your Link
+- LinkedIn: [Visit Profile](https://www.linkedin.com/in/nirmal-anand-b57718393?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - Email: nirmalanand205@gmail.com
 
 ---
