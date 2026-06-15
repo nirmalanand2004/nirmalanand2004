@@ -4,7 +4,7 @@
 
 ### MCA Student • Full Stack Developer • FastAPI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=600&lines=Full+Stack+Developer;FastAPI+Developer;MongoDB+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=600&lines=Full+Stack+Developer;Problem+Solver;New+Technologies+Learner" />
 
 </div>
 
