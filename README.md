@@ -72,7 +72,7 @@ HTML • CSS • JavaScript • FastAPI • MongoDB
 <p align="center">
 
 <a href="https://www.linkedin.com/in/nirmal-anand-b57718393?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a> •
-<a href="mailto:nirmalanand205@gmail.com">Email</a>
+<a href="mailto:nirmalanand205@gmail.com">Email</a> •
 <a href="https://nirmalanand2004.github.io/Profile/">Porfolio</a>
 
 </p>
