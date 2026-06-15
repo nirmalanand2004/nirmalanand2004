@@ -46,16 +46,6 @@
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=nirmalanand2004"/>
-
-</p>
-
----
-
 ## 🚀 Featured Project
 
 ### 🛒 Multi Vendor E-Commerce Platform
@@ -76,21 +66,12 @@ HTML • CSS • JavaScript • FastAPI • MongoDB
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nirmalanand2004" />
-
-</p>
-
----
 
 ## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/nirmal-anand-b57718393?utm_source=share_via&utm_content=profile&utm_medium=member_android)">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/nirmal-anand-b57718393?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a> •
 <a href="mailto:nirmalanand205@gmail.com">Email</a>
 <a href="https://nirmalanand2004.github.io/Profile/">Porfolio</a>
 
