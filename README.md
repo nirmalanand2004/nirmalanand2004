@@ -1,69 +1,107 @@
-# Hi 👋, I'm Nirmal Anand
+<div align="center">
 
-### 🎓 MCA Student | 💻 Full Stack Developer
+# Hi 👋 I'm Nirmal Anand
 
----
+### MCA Student • Full Stack Developer • FastAPI Enthusiast
 
-## 👨‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=600&lines=Full+Stack+Developer;FastAPI+Developer;MongoDB+Enthusiast;Always+Learning+New+Technologies" />
 
-- 🎓 MCA Student
-- 💻 Passionate Full Stack Developer
-- 🚀 Building Web Applications
-- 🌱 Learning FastAPI & MongoDB
-- 🎯 Looking for Software Development Opportunities
+</div>
 
 ---
 
-## 🛠️ Skills
+## 🚀 About Me
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
+🎓 MCA Student
 
-### Backend
-- Python
-- FastAPI
+💻 Building modern web applications
 
-### Database
-- MongoDB
+🌱 Learning FastAPI, MongoDB, and System Design
 
-### Tools
-- Git
-- GitHub
-- VS Code
+🔥 Interested in Full Stack Development
+
+⚡ Currently working on Multi-Vendor E-Commerce Platform
 
 ---
 
-## 🚀 Projects
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,fastapi,mongodb,git,github,vscode" />
+
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nirmalanand2004&show_icons=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalanand2004&layout=compact"/>
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=nirmalanand2004"/>
+
+</p>
+
+---
+
+## 🚀 Featured Project
 
 ### 🛒 Multi Vendor E-Commerce Platform
 
-Features:
-- Customer Dashboard
-- Vendor Dashboard
-- Wallet System
-- Order Management
-- Review System
+✔ Customer Dashboard
 
-Tech Stack:
-HTML | CSS | JavaScript | FastAPI | MongoDB
+✔ Vendor Dashboard
 
----
+✔ Wallet Management
 
-## 📊 GitHub Stats
+✔ Order Tracking
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+✔ Review System
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+**Tech Stack**
+
+HTML • CSS • JavaScript • FastAPI • MongoDB
 
 ---
 
-## 📫 Connect With Me
+## 🏆 GitHub Trophies
 
-- LinkedIn: [Visit Profile](https://www.linkedin.com/in/nirmal-anand-b57718393?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- Email: nirmalanand205@gmail.com
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nirmalanand2004" />
+
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/nirmal-anand-b57718393?utm_source=share_via&utm_content=profile&utm_medium=member_android)">LinkedIn</a> •
+<a href="mailto:nirmalanand205@gmail.com">Email</a>
+<a href="https://nirmalanand2004.github.io/Profile/">Porfolio</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 👀 Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=nirmalanand2004" />
+
+</div>
