@@ -28,7 +28,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,fastapi,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,mongodb,git,github,vscode" />
 
 </p>
 
